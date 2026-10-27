@@ -27,7 +27,7 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 ## Get further inspiration
 For more inspiration, visit this [website](https://e29.eu).
 
-## List of the VIP guests
+## VIP Guest List
 | No. | First Name | Surname | Email |
 |-----|------------|---------|:------------------------|
 | 1   | Anna       | Blue    | anna.blue@gmail.com     |
