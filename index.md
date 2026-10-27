@@ -1,6 +1,6 @@
 # Meet the Author Event
 On this, my very first Markdown page, I am learning how to use GitHub. I will create a plan to organize a meet-the-author event featuring a book about Scotland.
-## What I need learn
+## What I need to learn
 I would like to learn how to use _GitHub_ to create, manage, and publish a web page using Markdown - in this case a web-page for the *Meet the Author Event* . I am excited to develop my technical skills, and challenge myself by learning something new. As first step, I am learning **text styling**, then I will follow with **lists**, continue with placing a **link* into the text and uploading an **image** to the webpage. 
 ## What to do before the event
 1. Contact the author and agree on the date and the program.
