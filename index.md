@@ -10,6 +10,7 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 5. Monitor the effectiveness of the event promotion - send a reminder email to everyone on the mailing list.
 6. Prepare all necessary documents for event administration and payment processing.
 7. A few days before the event, contact the author to review and confirm the event program. Wish him a good journey :-)
+
 ## What to do on the day of the event
 - Get the keys and open the room.
 - Open the windows to let in some fresh air.
