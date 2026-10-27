@@ -22,3 +22,5 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 - Return the keys.
 ## Use these images to promote the event
 <img src="Bagpipes.jpg" alt="Bagpipes" width="400"> <img src="LochNess.jpg" alt="LochNess" width="450"> 
+## Get further inspiration
+For more inpiration, visit this [website](https://e29.eu).
