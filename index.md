@@ -5,7 +5,7 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 ## What to do before the event
 1. Contact the author and agree on the date and the program.
 2. Book a room with an additional 15-minute buffer before and after the event.
-3. Create a digital poster and promote the event online, send email to the members. (Use images connected to Scotland.)
+3. Create a digital poster and promote the event online, send email to the members.
 4. Contact the partner organizations and share the event details with them so they can promote it as well.
 5. Monitor the effectiveness of the event promotion - send a reminder email to everyone on the mailing list.
 6. Prepare all necessary documents for event administration and payment processing.
@@ -20,3 +20,5 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 - Thank the author and the participants for attending the event.
 - Restore the room to its original setup.
 - Return the keys.
+## Use these images to promote the event
+<img src="Bagpipes.jpg" alt="Bagpipes" width="400"> <img src="LochNess.jpg" alt="LochNess" width="450"> 
