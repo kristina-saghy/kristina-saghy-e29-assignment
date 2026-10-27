@@ -21,6 +21,7 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 - Thank the author and the participants for attending the event.
 - Restore the room to its original setup.
 - Return the keys.
+
 ## Use these images to promote the event
 <img src="Bagpipes.jpg" alt="Bagpipes" width="400"> <img src="LochNess.jpg" alt="LochNess" width="450"> 
 ## Get further inspiration
