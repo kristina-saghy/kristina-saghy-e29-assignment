@@ -26,3 +26,11 @@ I would like to learn how to use _GitHub_ to create, manage, and publish a web p
 <img src="Bagpipes.jpg" alt="Bagpipes" width="400"> <img src="LochNess.jpg" alt="LochNess" width="450"> 
 ## Get further inspiration
 For more inspiration, visit this [website](https://e29.eu).
+
+## List of the VIP guests
+| No. | First Name | Surname | Email |
+|-----|------------|---------|:------------------------|
+| 1   | Anna       | Blue    | anna.blue@gmail.com     |
+| 2   | Peter      | Green   | peter.green@gmail.com   |
+| 3   | Emma       | Yellow  | emma.yellow@gmail.com   |
+| 4   | David      | Red     | david.red@gmail.com     |
